@@ -1,0 +1,12 @@
+{
+    "Genesis": (
+        host: "mud.genesismud.org",
+        port: 3011,
+        tls: false,
+    ),
+    "Able": (
+        host: "localhost",
+        port: 4000,
+        tls: false,
+    ),
+}
